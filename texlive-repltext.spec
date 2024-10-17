@@ -3,7 +3,7 @@ Version:	56433
 Release:	2
 Summary:	Control how text gets copied from a PDF file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/repltext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/repltext
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/repltext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/repltext.doc.r%{version}.tar.xz
